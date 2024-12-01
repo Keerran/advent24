@@ -1,0 +1,4 @@
+[alias]
+scaffold = "run --bin scaffold -- "
+day-test = "test --bin"
+solve = "run --bin"
